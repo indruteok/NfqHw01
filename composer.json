@@ -1,0 +1,21 @@
+{
+  "name": "nfq/php-basics",
+  "description": "Home work project",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Indre Rakstele",
+      "email": "indruteok@gmail.com"
+    }
+  ],
+  "require": {
+    "squizlabs/php_codesniffer": "3.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Nfq\\": "app/Nfq/"
+    }
+  }
+}
+
+
