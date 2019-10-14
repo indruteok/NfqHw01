@@ -1,6 +1,6 @@
 # NfqHw01
 
-Projektas naudoja autoloaderį. index.php Pagal namespace kviečiamos keturios funkcijos:
+Projektas naudoja autoloaderį. Faile index.php Pagal namespace kviečiamos keturios funkcijos:
 
 1-oji su (root namespace):-funkcija priima bet kokius argumentus ir su jais dirba. Stringą paverčia į integer ir toliau vykdo funkciją.
 
